@@ -84,7 +84,7 @@ function draw() {
   if (fallingObject.y >= height) {
     fallingObject.y = 0;
      fallingObject.x = random(width);
-    fallingObject.vel.y = random(1,2);
+    fallingObject.vel.y = random(1,3);
 
     // Update score negatively if not caught
     updateScore(false);
