@@ -12,12 +12,6 @@ Your project should:
   - Include three images: one in the background, one for your catcher sprite, and one for your falling object sprite.
   - Include citations for your images in your project’s README file. 
 
-### Optional Spice Level + Extensions
-You can extend your project further by:
-- Trying a Spice Level Challenge (See Part 5)
-- Adding another falling object (See HQ for details)
-- Adding a home screen (See HQ for details)
-- Adding another level (See HQ for details)
 
 ###  Attributions
 *If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
